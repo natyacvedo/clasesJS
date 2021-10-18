@@ -2,6 +2,7 @@
 
 //funcion para mostrar los elementos del arreglo
 function mostrarArreglo(){
+    document.write("<h5>"+titulo+"</h5>")
 }
 
 //crear o declaramos un arreglo
