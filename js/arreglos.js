@@ -1,5 +1,9 @@
 /*el arreglo no tiene un limite en las cosas q tengo q guardar pero solo almacena un valor por instante de tiempo*/
 
+//funcion para mostrar los elementos del arreglo
+function mostrarArreglo(){
+}
+
 //crear o declaramos un arreglo
 
 let series = ["friends","game of thrones","Black Mirror", "Castlevania", 10, true];
