@@ -19,7 +19,7 @@ let usuariopablo = {
 login: function (){
     //todo el codigo que quiero de este metodo
     console.log("Estamos logueados");
-}
+},
 logout: () =>{
     //todo el codigo que quiero que haga este metodo de logout
     console.log("Cerramos sesion");
